@@ -3,7 +3,7 @@
 **Name of your app** là một bài tập 1 tại môn UDPT.
 
 Thành viên:
-* [ ] **1412269** Hà Mạnh Kiệt (KietHa)
+* [x] **1412269** Hà Mạnh Kiệt (KietHa)
 * [ ] **MSSV2** Tên sinh viên 2 (tên tài khoản github)
 
 URL: **URL hosting của bài tập**
