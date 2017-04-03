@@ -1,6 +1,6 @@
-# BT-UDPT-1 - *Name of your app*
+# BT-UDPT-1 - *Tintuc24h*
 
-**Name of your app** là một bài tập 1 tại môn UDPT.
+**Tintuc24h** là một bài tập 1 tại môn UDPT.
 
 Thành viên:
 * [x] **1412269** Hà Mạnh Kiệt (KietHa)
@@ -13,7 +13,7 @@ URL: **URL hosting của bài tập**
 Sinh viên check vào các mục bên dưới và ghi mã sinh viên đã làm vào chức năng theo mẫu. Mục nào ko có MSSV là tính điểm theo nhóm. Cần sắp xếp các chức năng bên dưới theo thứ tự MSSV đã thực hiện.
 
 Yêu cầu **GIT**
-* [ ] Có sử dụng GIT.
+* [x] Có sử dụng GIT.
 * [ ] Sử dụng GIT theo Centralized Workflow.
 * [ ] Sử dụng GIT theo Feature Branch Workflow.
 * [ ] Sử dụng GIT theo Gitflow Workflow.
