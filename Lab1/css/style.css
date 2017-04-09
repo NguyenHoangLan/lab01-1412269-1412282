@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+  .navbar-toggle {
+    display: none;
+  }
+}
+
+body {
+  padding-top: 70px;
+}
